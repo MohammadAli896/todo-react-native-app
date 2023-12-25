@@ -4,4 +4,4 @@ Built a mobile TODO app using React Native with features such as alerting, state
 
 # View screenshots and implementation
 
-- [Write-up and Screenshots PDF](https://github.com/MohammadAli896/flask-api-server/blob/main/Mohammad%20Ali%20-%20Lab%202%20Submission.pdf)
+- [Write-up and Screenshots PDF](https://github.com/MohammadAli896/todo-react-native-app/blob/main/Mohammad%20Ali%20-%20Lab%205%20Submission.pdf)
